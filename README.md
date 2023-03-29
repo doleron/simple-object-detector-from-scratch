@@ -4,6 +4,8 @@ This repository has educational purposes only. It is shown how to build a simple
 
 Check this story on medium for more details: https://medium.com/@doleron/building-your-own-object-detector-from-scratch-bfeadfaddad8
 
+![model predictions](https://raw.githubusercontent.com/doleron/simple-object-detector-from-scratch/main/test_od.png)
+
 ## Notes
 
 The model is trained using the Labeled Mask database: https://www.kaggle.com/datasets/techzizou/labeled-mask-dataset-yolo-darknet
