@@ -2,6 +2,10 @@
 
 This repository has educational purposes only. It is shown how to build a simple Object Detector from scratch using Tensorflow &amp; Keras.
 
+The code to build the detector is shown in this [notebook](simple_obj_detector.ipynb)
+
+You can also run the code on this [colab notebook](https://colab.research.google.com/drive/1P1CC2f-V_oBTUJFwblgmW-E9xe-19Osi).
+
 Check this story on medium for more details: https://medium.com/@doleron/building-your-own-object-detector-from-scratch-bfeadfaddad8
 
 ![model predictions](https://raw.githubusercontent.com/doleron/simple-object-detector-from-scratch/main/test_od.png)
